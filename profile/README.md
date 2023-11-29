@@ -1,5 +1,8 @@
 ## Repositórios de Estudos
 
+<!---### [Resumo Categorizado dos Estudos]()-->
+
+
 ### [Santander Code 2023: Data Engineering](https://github.com/mbaliu-treino/ADA_Engenharia_de_Dados)
 
 Curso profissionalizante na área de engenharia de dados oferecido pela Ada Tech, com apoio do banco Santander. Carga horária de 324 horas no total ao longo de 5 meses, com aulas síncronas e entrega de um projeto de conclusão para cada um dos 6 módulos (54 horas).
