@@ -12,15 +12,43 @@ Conheça o meu repositório de resumo do curso: [Santander Code 2023 - Data Engi
 Os temas abordados foram:
 
 * Lógica de programação (Python)
+<!--
+[![Curso Badge](https://img.shields.io/badge/-Resumo-3d5c5c?style=flat-square)]()
+[![Curso Badge](https://img.shields.io/badge/-Projeto_Final-196619?style=flat-square)]() 
+-->
 * Programação orientada a objetos (OOP)
+<!-- [![Curso Badge](https://img.shields.io/badge/-Resumo-3d5c5c?style=flat-square)]()
+[![Curso Badge](https://img.shields.io/badge/-Projeto_Final-196619?style=flat-square)]()
+-->
 * Técnicas de programação para dados
+<!--
+[![Curso Badge](https://img.shields.io/badge/-Resumo-3d5c5c?style=flat-square)]()
+[![Curso Badge](https://img.shields.io/badge/-Projeto_Final-196619?style=flat-square)]() 
+-->
 * Extração automatizada de dados
+<!--
+[![Curso Badge](https://img.shields.io/badge/-Resumo-3d5c5c?style=flat-square)]()
+[![Curso Badge](https://img.shields.io/badge/-Projeto_Final-196619?style=flat-square)]() 
+-->
 * Analytics Engineering
+<!-- [![Curso Badge](https://img.shields.io/badge/-Resumo-3d5c5c?style=flat-square)]()
+[![Curso Badge](https://img.shields.io/badge/-Projeto_Final-196619?style=flat-square)]()
+-->
 * Big Data
+<!-- 
+[![Curso Badge](https://img.shields.io/badge/-Resumo-3d5c5c?style=flat-square)]()
+[![Curso Badge](https://img.shields.io/badge/-Projeto_Final-196619?style=flat-square)]()
+-->
+
+<!--
+* [![Curso Badge](https://img.shields.io/badge/-Resumo-3d5c5c?style=flat-square)]() [![Curso Badge](https://img.shields.io/badge/-Projeto_Final-196619?style=flat-square)]() Lógica de programação (Python)
+
+* Big Data: [Resumo](), [Projeto Final]()
+-->
 
 Link da página oficial do curso: 
 
-[![Gmail Badge](https://img.shields.io/badge/-SantanderCoders2023-D22D1F?style=flat-square)](https://ada.tech/sou-aluno/programas/santander-coders-2023)
+[![Curso Badge](https://img.shields.io/badge/-SantanderCoders2023-D22D1F?style=flat-square)](https://ada.tech/sou-aluno/programas/santander-coders-2023)
 
 
 ### 2. Desenvolve 2022: Ciência de Dados
