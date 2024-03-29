@@ -7,7 +7,7 @@
 
 Curso profissionalizante na área de engenharia de dados oferecido pela Ada Tech, com apoio do banco Santander. Carga horária de 324 horas no total ao longo de 5 meses, com aulas síncronas e entrega de um projeto de conclusão para cada um dos 6 módulos (54 horas). 
 
-Conheça o meu repositório de resumo do curso: [Santander Code 2023 - Data Engineering](https://github.com/mbaliu-treino/ADA_Engenharia_de_Dados)
+Conheça o meu repositório de resumo do curso: [**Santander Code 2023 - Data Engineering**](https://github.com/mbaliu-treino/ADA_Engenharia_de_Dados)
 
 Os temas abordados foram:
 
@@ -55,7 +55,7 @@ Link da página oficial do curso:
 
 Curso profissionalizante na área de ciência de dados oferecido pelo Grupo Boticário junto da escola de programação Alura. Carga horária de 625 horas no total ao longo de 10 meses.
 
-Conheça o meu repositório de resumo do curso: [Desenvolve 2022 - Ciência de Dados](https://github.com/mbaliu-treino/Desenvolve)
+Conheça o meu repositório de resumo do curso: [**Desenvolve 2022 - Ciência de Dados**](https://github.com/mbaliu-treino/Desenvolve)
 
 Os temas abordados foram:
 
