@@ -71,6 +71,13 @@ Os temas abordados foram:
 * Urban Data Science
 * Metodologia Ágil
 
+
+### Projetos Guiados
+
+* Engenharia de Dados
+  * [ETL para grandes quantidades de dados: consolidação de vários arquivos XLSX](mbaliu-treino/101_etl_pipeline_xlsx: Guided project to build an ETL pipeline with data in file XLSX (github.com))
+
+
 <!--
 
 **Here are some ideas to get you started:**
