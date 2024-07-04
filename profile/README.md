@@ -2,8 +2,14 @@
 
 <!---### [Resumo Categorizado dos Estudos]()-->
 
+### 1. Projetos Guiados
 
-### 1. Santander Code 2023: Data Engineering
+* **Engenharia de Dados**
+  * [ETL para grandes quantidades de dados: consolidação de vários arquivos XLSX](https://github.com/mbaliu-treino/101_etl_pipeline_xlsx/tree/main)
+  * [Data Pipeline em Cloud da AWS: ingestão, integração, processamento e serving (S3, RDS, DMS)](https://github.com/mbaliu-treino/bootcamp-data-engineering-aws-2023)
+ 
+    
+### 2. Santander Code 2023: Data Engineering
 
 Curso profissionalizante na área de engenharia de dados oferecido pela Ada Tech, com apoio do banco Santander. Carga horária de 324 horas no total ao longo de 5 meses, com aulas síncronas e entrega de um projeto de conclusão para cada um dos 6 módulos (54 horas). 
 
@@ -51,7 +57,7 @@ Link da página oficial do curso:
 [![Curso Badge](https://img.shields.io/badge/-SantanderCoders2023-D22D1F?style=flat-square)](https://ada.tech/sou-aluno/programas/santander-coders-2023)
 
 
-### 2. Desenvolve 2022: Ciência de Dados
+### 3. Desenvolve 2022: Ciência de Dados
 
 Curso profissionalizante na área de ciência de dados oferecido pelo Grupo Boticário junto da escola de programação Alura. Carga horária de 625 horas no total ao longo de 10 meses.
 
@@ -72,10 +78,7 @@ Os temas abordados foram:
 * Metodologia Ágil
 
 
-### Projetos Guiados
 
-* Engenharia de Dados
-  * [ETL para grandes quantidades de dados: consolidação de vários arquivos XLSX](https://github.com/mbaliu-treino/101_etl_pipeline_xlsx/tree/main)
 
 
 <!--
