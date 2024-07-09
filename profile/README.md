@@ -37,6 +37,9 @@ Os temas abordados foram:
 [![Curso Badge](https://img.shields.io/badge/-Projeto_Final-196619?style=flat-square)]() 
 -->
 * Analytics Engineering
+
+  * **[PROJETO FINAL](https://github.com/FelipeBuso/ada-santander-projeto-analytics-engineering) - Data Pipeline de especialização de dados**
+    * Solução de dados para especializar dados  do AirBnB em camadas de um Data Warehouse. Para a construção da camada RAW (BRONZE), os dados em arquivo CSV foram adquiridos na web e ingeridos em uma instância PostgreSQL na AWS RDS (ou um container Docker) através de uma aplicação Python. Na camada de Data Quality, os dados da RAW foram validados com o Great Expectations. Identificado e documentado as falhas de qualidades, os dados foram tratados com Pandas e persistidos na camada TRUSTED. Neste camada, novamente outra validação de qualidade foi realizada. Para disponibilizar informações de negócios, os dados foram harmonizados e especializados utilizando o DBT.
 <!-- [![Curso Badge](https://img.shields.io/badge/-Resumo-3d5c5c?style=flat-square)]()
 [![Curso Badge](https://img.shields.io/badge/-Projeto_Final-196619?style=flat-square)]()
 -->
