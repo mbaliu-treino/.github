@@ -46,6 +46,9 @@ Os temas abordados foram:
 [![Curso Badge](https://img.shields.io/badge/-Projeto_Final-196619?style=flat-square)]()
 -->
 * Big Data
+
+  * **[PROJETO FINAL](https://github.com/mbaliu-treino/ada-big-data-hadoop-hive-partition) - Desenvolvimento e Avaliação da Performance de uma Arquitura Distribuída usando Databricks, Apache Hive, Python**
+    * Arquitetura de solução de Big Data de dados do Cadastro Ambiental Rural (CAR). O projeto é um estudo sobre o desempenho de uma proposta de particionamento do Banco de Dados. Ele compreende o desenho da arquitetura, implementação, modelagem dos dados e avaliação da efetividade do particionamento segundo alguns testes de consultas.
 <!-- 
 [![Curso Badge](https://img.shields.io/badge/-Resumo-3d5c5c?style=flat-square)]()
 [![Curso Badge](https://img.shields.io/badge/-Projeto_Final-196619?style=flat-square)]()
